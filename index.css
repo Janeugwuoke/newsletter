@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+}
+.maincontainer{
+    width: 80%;
+    height:80%;
+    background-color: white;
+    margin: auto;
+}
+
+.signup-img img{
+    width: 100%;
+}
+
+.updates{
+    padding: 10px;
+}
+
+
+.product-list{
+    display: flex;
+    gap: 10px;
+}
+
+
+button{
+    margin-top: 20px;
+    background-color: hsl(234, 29%, 20%);
+    color: white;
+}
+
+.success-main{ 
+    width: 80%;
+    height:100%;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.roboto-<uniquifier> {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } */
